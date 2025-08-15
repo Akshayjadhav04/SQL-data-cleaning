@@ -47,6 +47,6 @@ The project is divided into two main parts:
 
 ## 👤 Author
 
-**Korra Rajesh**  
+**Jadhav Akshay Kumar**  
 
 > This project is part of my portfolio to demonstrate real-world SQL data cleaning and analytical skills.
